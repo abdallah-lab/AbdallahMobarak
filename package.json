@@ -1,0 +1,21 @@
+{
+  "name": "abdallahmobarak",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "next-pwa": "5.0.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-double-marquee": "1.0.6",
+    "react-icons": "4.1.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
